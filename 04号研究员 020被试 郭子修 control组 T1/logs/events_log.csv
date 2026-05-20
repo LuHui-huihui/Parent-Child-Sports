@@ -1,0 +1,20 @@
+﻿global_time_ms,event_type,task_name,block_name,trial_index_global,participant_id,group,timepoint,practice_layer,telemetry_version,block_type,event_value,prompt_level,support_level,support_rule,support_trigger_reason,rule_block_error_count,support_phase,support_faded_after_trial,error_type,message
+3397.375,task_start,flanker,,,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,flanker_task_start
+115212.766,task_end,flanker,formal_block_2,52,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,flanker_finished
+116658.0,task_start,dccs,,,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,dccs_task_start
+127382.297,timing_drift,dccs,pre_switch_practice,1,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,fixation drift=-31.681 ms
+134267.254,info,dccs,color_adaptive_support,3,20,Control,T1,adaptive,telemetry_v4,practice,criterion_not_reached,1,1,color,criterion_not_reached,1,brief_rule_prompt,,,dccs_support_level_1:color:criterion_not_reached
+137569.356,info,dccs,pre_switch_practice,4,20,Control,T1,adaptive,telemetry_v4,practice,recovered,,1,color,criterion_not_reached,,,True,,dccs_support_recovered:color:criterion_not_reached
+149838.79,info,dccs,shape_adaptive_support,7,20,Control,T1,adaptive,telemetry_v4,practice,criterion_not_reached,1,1,shape,criterion_not_reached,1,brief_rule_prompt,,,dccs_support_level_1:shape:criterion_not_reached
+154156.922,info,dccs,post_switch_practice,8,20,Control,T1,adaptive,telemetry_v4,practice,recovered,,1,shape,criterion_not_reached,,,True,,dccs_support_recovered:shape:criterion_not_reached
+158989.78,info,dccs,shape_adaptive_support,11,20,Control,T1,adaptive,telemetry_v4,practice,shape_rule_confusion,2,2,shape,shape_rule_confusion,2,worked_example,,,dccs_support_level_2:shape:shape_rule_confusion
+158990.85,info,dccs,shape_demo,,20,Control,T1,adaptive,telemetry_v4,practice,,,,,,,,,,dccs_demo_start:shape:corrective
+164728.228,info,dccs,shape_demo,,20,Control,T1,adaptive,telemetry_v4,practice,,,,,,,,,,dccs_demo_end:shape:corrective
+166663.219,info,dccs,post_switch_practice,12,20,Control,T1,adaptive,telemetry_v4,practice,recovered,,2,shape,shape_rule_confusion,,,True,,dccs_support_recovered:shape:shape_rule_confusion
+250595.704,task_end,dccs,mixed_formal,48,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,dccs_finished
+251827.708,task_start,digit_span,,,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,digit_span_task_start
+265068.307,timing_drift,digit_span,practice_digitspan,1,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+678347.643,task_end,digit_span,formal_span_6,16,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,digit_span_finished
+679338.434,task_start,change_detection,,,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,change_detection_task_start
+957897.856,timing_drift,change_detection,formal_cd,41,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,memory_array drift=-26.793 ms
+1052996.548,task_end,change_detection,formal_cd,56,20,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,change_detection_finished

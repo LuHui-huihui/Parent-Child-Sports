@@ -1,0 +1,48 @@
+{
+  "experimenter_id": "04",
+  "debug_mode": false,
+  "fullscreen": true,
+  "random_seed": 1779087882,
+  "override_task_order": null,
+  "override_practice_layer": null,
+  "force_adaptive_level": null,
+  "participant_id": "019",
+  "child_name_or_code": "梁廷锴",
+  "age_years": 6,
+  "age_months": 0,
+  "sex": "boy",
+  "group": "Control",
+  "timepoint": "T1",
+  "session_date": "2026-05-18",
+  "session_time": "15:04",
+  "practice_layer": "standard",
+  "practice_assignment_source": "auto_assigned_odd_even",
+  "practice_assignment_stratum": "participant_id_parity",
+  "handedness": "right",
+  "notes": "",
+  "session_id": "019_T1_20260518_150442",
+  "session_dir": "C:\\Users\\ASUS\\Desktop\\Parent-Child-Sports\\亲子运动执行功能\\ef_battery\\data\\019_T1_019_T1_20260518_150442",
+  "program_version": "1.0.1",
+  "operating_system": "Windows-10-10.0.26200-SP0",
+  "screen_refresh_hz": 60.0,
+  "window_size": [
+    2880,
+    1800
+  ],
+  "task_order": [
+    "flanker",
+    "dccs",
+    "digit_span",
+    "change_detection"
+  ],
+  "telemetry_enabled": true,
+  "adaptive_targets": [
+    "dccs",
+    "digit_span"
+  ],
+  "practice_protocol_version": "hci_substudy_v2",
+  "telemetry_version": "telemetry_v4",
+  "start_time_global": 0.0,
+  "end_time_global": 1131645.89,
+  "start_time_iso": "2026-05-18T15:04:42"
+}

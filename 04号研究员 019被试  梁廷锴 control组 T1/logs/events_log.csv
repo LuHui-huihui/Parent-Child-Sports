@@ -1,0 +1,12 @@
+﻿global_time_ms,event_type,task_name,block_name,trial_index_global,participant_id,group,timepoint,practice_layer,telemetry_version,block_type,event_value,prompt_level,support_level,support_rule,support_trigger_reason,rule_block_error_count,support_phase,support_faded_after_trial,error_type,message
+4232.595,task_start,flanker,,,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,flanker_task_start
+204074.116,task_end,flanker,formal_block_2,52,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,flanker_finished
+205668.535,task_start,dccs,,,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,dccs_task_start
+259605.444,timing_drift,dccs,pre_switch_practice,1,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-42.572 ms
+399885.557,task_end,dccs,mixed_formal,42,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,dccs_finished
+401990.021,task_start,digit_span,,,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,digit_span_task_start
+407811.871,timing_drift,digit_span,practice_digitspan,1,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+653554.783,task_end,digit_span,formal_span_4,12,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,digit_span_finished
+654999.267,task_start,change_detection,,,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,change_detection_task_start
+1045394.698,timing_drift,change_detection,formal_cd,46,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-33.354 ms
+1131632.242,task_end,change_detection,formal_cd,56,019,Control,T1,standard,telemetry_v4,,,,,,,,,,,change_detection_finished
