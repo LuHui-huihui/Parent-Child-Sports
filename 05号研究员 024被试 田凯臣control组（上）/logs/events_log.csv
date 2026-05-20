@@ -1,0 +1,8 @@
+﻿global_time_ms,event_type,task_name,block_name,trial_index_global,participant_id,group,timepoint,practice_layer,telemetry_version,block_type,event_value,prompt_level,support_level,support_rule,support_trigger_reason,rule_block_error_count,support_phase,support_faded_after_trial,error_type,message
+6124.679,task_start,flanker,,,24,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,flanker_task_start
+84013.256,timing_drift,flanker,practice_single,1,24,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,fixation drift=-25.021 ms
+92871.786,timing_drift,flanker,practice_single,1,24,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,feedback drift=-10.800 ms
+103245.579,timing_drift,flanker,practice_single,3,24,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,fixation drift=-10.701 ms
+283851.99,timing_drift,flanker,formal_block_2,51,24,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,fixation drift=-11.214 ms
+297427.007,task_end,flanker,formal_block_2,52,24,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,flanker_finished
+299411.753,task_start,dccs,,,24,Control,T1,adaptive,telemetry_v4,,,,,,,,,,,dccs_task_start

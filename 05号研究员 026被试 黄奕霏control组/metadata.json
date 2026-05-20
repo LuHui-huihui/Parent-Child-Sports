@@ -1,0 +1,48 @@
+{
+  "experimenter_id": "05",
+  "debug_mode": false,
+  "fullscreen": true,
+  "random_seed": 1779091635,
+  "override_task_order": null,
+  "override_practice_layer": null,
+  "force_adaptive_level": null,
+  "participant_id": "26",
+  "child_name_or_code": "黄奕霏",
+  "age_years": 5,
+  "age_months": 0,
+  "sex": "girl",
+  "group": "Control",
+  "timepoint": "T1",
+  "session_date": "2026-05-18",
+  "session_time": "16:06",
+  "practice_layer": "adaptive",
+  "practice_assignment_source": "auto_assigned_odd_even",
+  "practice_assignment_stratum": "participant_id_parity",
+  "handedness": "",
+  "notes": "",
+  "session_id": "26_T1_20260518_160715",
+  "session_dir": "D:\\111\\亲子\\Parent-Child-Sports\\亲子运动执行功能\\ef_battery\\data\\26_T1_26_T1_20260518_160715",
+  "program_version": "1.0.1",
+  "operating_system": "Windows-10-10.0.26200-SP0",
+  "screen_refresh_hz": 174.937,
+  "window_size": [
+    2560,
+    1600
+  ],
+  "task_order": [
+    "flanker",
+    "dccs",
+    "digit_span",
+    "change_detection"
+  ],
+  "telemetry_enabled": true,
+  "adaptive_targets": [
+    "dccs",
+    "digit_span"
+  ],
+  "practice_protocol_version": "hci_substudy_v2",
+  "telemetry_version": "telemetry_v4",
+  "start_time_global": 0.0,
+  "end_time_global": 999433.381,
+  "start_time_iso": "2026-05-18T16:07:15"
+}
