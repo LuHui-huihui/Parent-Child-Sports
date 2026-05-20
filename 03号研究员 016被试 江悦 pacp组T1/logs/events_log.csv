@@ -1,0 +1,43 @@
+﻿global_time_ms,event_type,task_name,block_name,trial_index_global,participant_id,group,timepoint,practice_layer,telemetry_version,block_type,event_value,prompt_level,support_level,support_rule,support_trigger_reason,rule_block_error_count,support_phase,support_faded_after_trial,error_type,message
+2853.572,task_start,flanker,,,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,flanker_task_start
+152374.993,task_end,flanker,formal_block_2,52,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,flanker_finished
+154204.719,task_start,dccs,,,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,dccs_task_start
+185767.484,timing_drift,dccs,pre_switch_practice,1,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-64.635 ms
+346353.629,task_end,dccs,mixed_formal,42,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,dccs_finished
+348615.197,task_start,digit_span,,,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,digit_span_task_start
+364905.209,timing_drift,digit_span,practice_digitspan,1,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+380630.26,timing_drift,digit_span,practice_digitspan,2,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+389858.764,timing_drift,digit_span,practice_digitspan,3,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+400109.618,timing_drift,digit_span,practice_digitspan,4,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+409081.746,timing_drift,digit_span,practice_digitspan,5,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+416649.602,timing_drift,digit_span,practice_digitspan,6,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+433871.896,timing_drift,digit_span,formal_span_2,7,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+445099.698,timing_drift,digit_span,formal_span_2,8,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+452766.947,timing_drift,digit_span,formal_span_3,9,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+474561.252,timing_drift,digit_span,formal_span_3,10,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+486744.6,timing_drift,digit_span,formal_span_4,11,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+515951.079,timing_drift,digit_span,formal_span_4,12,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+530334.063,timing_drift,digit_span,formal_span_5,13,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+557592.882,timing_drift,digit_span,formal_span_5,14,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+603180.198,timing_drift,digit_span,formal_span_6,15,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+635645.084,timing_drift,digit_span,formal_span_6,16,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+682658.865,timing_drift,digit_span,formal_span_7,17,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+732831.956,timing_drift,digit_span,formal_span_7,18,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+762440.723,timing_drift,digit_span,formal_span_8,19,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+805567.975,timing_drift,digit_span,formal_span_8,20,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+858681.382,task_end,digit_span,formal_span_8,20,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,digit_span_finished
+861457.774,task_start,change_detection,,,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,change_detection_task_start
+966084.687,timing_drift,change_detection,formal_cd,9,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-27.445 ms
+1007042.283,timing_drift,change_detection,formal_cd,14,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-33.390 ms
+1039863.072,timing_drift,change_detection,formal_cd,20,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-61.869 ms
+1050789.81,timing_drift,change_detection,formal_cd,22,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-62.331 ms
+1056520.289,timing_drift,change_detection,formal_cd,23,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-51.557 ms
+1068123.074,timing_drift,change_detection,formal_cd,25,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-36.246 ms
+1083456.409,timing_drift,change_detection,formal_cd,27,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-56.968 ms
+1099863.609,timing_drift,change_detection,formal_cd,30,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-49.800 ms
+1174135.708,timing_drift,change_detection,formal_cd,43,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-27.080 ms
+1207911.874,timing_drift,change_detection,formal_cd,48,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-27.200 ms
+1221301.013,timing_drift,change_detection,formal_cd,50,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-48.944 ms
+1227228.172,timing_drift,change_detection,formal_cd,51,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-58.839 ms
+1233174.239,timing_drift,change_detection,formal_cd,52,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,memory_array drift=-49.280 ms
+1267713.736,task_end,change_detection,formal_cd,56,017,PCPA,T1,standard,telemetry_v4,,,,,,,,,,,change_detection_finished
