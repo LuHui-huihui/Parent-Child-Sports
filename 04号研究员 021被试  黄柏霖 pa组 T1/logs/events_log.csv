@@ -1,0 +1,15 @@
+﻿global_time_ms,event_type,task_name,block_name,trial_index_global,participant_id,group,timepoint,practice_layer,telemetry_version,block_type,event_value,prompt_level,support_level,support_rule,support_trigger_reason,rule_block_error_count,support_phase,support_faded_after_trial,error_type,message
+2317.28,task_start,flanker,,,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,flanker_task_start
+192846.141,task_end,flanker,formal_block_2,52,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,flanker_finished
+193522.379,task_start,dccs,,,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,dccs_task_start
+251020.703,timing_drift,dccs,pre_switch_practice,1,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,fixation drift=-33.395 ms
+393692.127,task_end,dccs,mixed_formal,42,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,dccs_finished
+396552.372,task_start,digit_span,,,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,digit_span_task_start
+453916.422,timing_drift,digit_span,practice_digitspan,1,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,fixation drift=-83.333 ms
+676481.266,task_end,digit_span,formal_span_4,12,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,digit_span_finished
+677418.445,task_start,change_detection,,,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,change_detection_task_start
+1024706.524,timing_drift,change_detection,formal_cd,28,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,memory_array drift=-35.042 ms
+1051242.563,timing_drift,change_detection,formal_cd,32,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,memory_array drift=-25.103 ms
+1197528.612,timing_drift,change_detection,formal_cd,55,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,memory_array drift=-30.097 ms
+1257432.637,timing_drift,change_detection,formal_cd,66,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,memory_array drift=-26.100 ms
+1308003.883,task_end,change_detection,formal_cd,72,22,PA,T1,adaptive,telemetry_v4,,,,,,,,,,,change_detection_finished
