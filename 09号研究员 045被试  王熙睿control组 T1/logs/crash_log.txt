@@ -1,0 +1,15 @@
+NameError: name 'ExperimentAbort' is not defined
+Traceback (most recent call last):
+  File "c:\Users\zjh\Desktop\Parent-Child-Sports\亲子运动执行功能\ef_battery\main.py", line 814, in run_experiment
+    task.run()
+  File "c:\Users\zjh\Desktop\Parent-Child-Sports\亲子运动执行功能\ef_battery\tasks\digit_span.py", line 1726, in run
+    self._practice()
+  File "c:\Users\zjh\Desktop\Parent-Child-Sports\亲子运动执行功能\ef_battery\tasks\digit_span.py", line 1580, in _practice
+    self._run_standard_practice()
+  File "c:\Users\zjh\Desktop\Parent-Child-Sports\亲子运动执行功能\ef_battery\tasks\digit_span.py", line 1427, in _run_standard_practice
+    self._show_result_page(
+  File "c:\Users\zjh\Desktop\Parent-Child-Sports\亲子运动执行功能\ef_battery\tasks\digit_span.py", line 578, in _show_result_page
+    self._show_child_page(
+  File "c:\Users\zjh\Desktop\Parent-Child-Sports\亲子运动执行功能\ef_battery\tasks\digit_span.py", line 546, in _show_child_page
+    raise ExperimentAbort("研究助理从页面中安全退出，数据已保存。")
+NameError: name 'ExperimentAbort' is not defined
